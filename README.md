@@ -2,7 +2,7 @@
 
 A simple Tic-Tac-Toe game implemented in [programming language] with [framework/library].
 
-![Game Screenshot](screenshot.png)
+![Game Screenshot]()
 
 ## Table of Contents
 
