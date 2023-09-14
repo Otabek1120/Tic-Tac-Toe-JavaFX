@@ -15,7 +15,21 @@ A simple Tic-Tac-Toe game implemented in [programming language] with [framework/
 
 ## Features
 
-- [List key features of your Tic-Tac-Toe game here]
+# Tic-Tac-Toe Game - Features
+
+This JavaFX-based Tic-Tac-Toe game offers a range of features to enhance the gaming experience:
+
+1. **Player vs. Computer (PvC) Mode:**
+   - Description: Test your skills against the AI opponent, with adjustable difficulty levels to match your expertise.
+
+2. **Responsive User Interface:**
+   - Description: Enjoy a seamless gaming experience on various screen sizes and orientations, thanks to the responsive UI design.
+
+3. **Win Detection:**
+   - Description: The game detects winning combinations in real-time and announces the winner or declares a tie when necessary.
+
+4. **Views**
+   - Can be viewed as a text grid and button grid.
 
 ## Demo
 
