@@ -1,8 +1,7 @@
 # Tic-Tac-Toe Game
 
-A simple Tic-Tac-Toe game implemented in [programming language] with [framework/library].
+A simple Tic-Tac-Toe game implemented in Java with JavaFX framework and library.
 
-![Game Screenshot]()
 
 ## Table of Contents
 
@@ -23,13 +22,13 @@ This JavaFX-based Tic-Tac-Toe game offers a range of features to enhance the gam
    - Description: Test your skills against the AI opponent, with adjustable difficulty levels to match your expertise.
 
 2. **Responsive User Interface:**
-   - Description: Enjoy a seamless gaming experience on various screen sizes and orientations, thanks to the responsive UI design.
+   - Description: Enjoy a seamless gaming experience thanks to the responsive UI design.
 
 3. **Win Detection:**
    - Description: The game detects winning combinations in real-time and announces the winner or declares a tie when necessary.
 
 4. **Views**
-   - Can be viewed as a text grid and button grid.
+   - Description: The game allows a view of grid and button grid.
 
 ## Demo
 
@@ -41,7 +40,7 @@ This JavaFX-based Tic-Tac-Toe game offers a range of features to enhance the gam
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/tic-tac-toe.git
+git clone https://github.com/Otabek1120/Tic-Tac-Toe-JavaFX.git
 
 # Change directory
 cd tic-tac-toe
